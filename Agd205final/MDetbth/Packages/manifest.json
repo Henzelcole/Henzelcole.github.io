@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "com.unity.probuilder": "3.0.8",
+    "com.unity.ads": "2.0.8",
+    "com.unity.cinemachine": "2.1.13",
+    "com.unity.shadergraph": "1.1.6-preview",
+    "com.unity.postprocessing": "2.0.5-preview",
+    "com.unity.progrids": "3.0.2-preview"
+  }
+}

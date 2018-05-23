@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 55c8ab34ca0b14248abc500408eea828
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: berrys
+    100004: berrys_1
+    100006: berrys_2
+    100008: berrys_3
+    100010: berrys_4
+    100012: berrys_5
+    100014: berrys_6
+    100016: berrys_7
+    100018: Shrub1
+    100020: Shrub2
+    100022: Shrub3
+    100024: Shrub4
+    100026: Shrub5
+    400000: //RootNode
+    400002: berrys
+    400004: berrys_1
+    400006: berrys_2
+    400008: berrys_3
+    400010: berrys_4
+    400012: berrys_5
+    400014: berrys_6
+    400016: berrys_7
+    400018: Shrub1
+    400020: Shrub2
+    400022: Shrub3
+    400024: Shrub4
+    400026: Shrub5
+    2100000: Berries
+    2100002: Berries2
+    2100004: Shrub1
+    2100006: Shrub2
+    2100008: Shrub3
+    2100010: Shrub4
+    2300000: berrys
+    2300002: berrys_1
+    2300004: berrys_2
+    2300006: berrys_3
+    2300008: berrys_4
+    2300010: berrys_5
+    2300012: berrys_6
+    2300014: berrys_7
+    2300016: Shrub1
+    2300018: Shrub2
+    2300020: Shrub3
+    2300022: Shrub4
+    2300024: Shrub5
+    3300000: berrys
+    3300002: berrys_1
+    3300004: berrys_2
+    3300006: berrys_3
+    3300008: berrys_4
+    3300010: berrys_5
+    3300012: berrys_6
+    3300014: berrys_7
+    3300016: Shrub1
+    3300018: Shrub2
+    3300020: Shrub3
+    3300022: Shrub4
+    3300024: Shrub5
+    4300000: berrys
+    4300002: berrys_7
+    4300004: berrys_6
+    4300006: berrys_5
+    4300008: berrys_4
+    4300010: berrys_3
+    4300012: berrys_2
+    4300014: berrys_1
+    4300016: Shrub1
+    4300018: Shrub5
+    4300020: Shrub4
+    4300022: Shrub3
+    4300024: Shrub2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
